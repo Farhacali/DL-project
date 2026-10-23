@@ -1,0 +1,10 @@
+torch
+transformers
+datasets
+sentencepiece
+accelerate
+sacrebleu
+pandas
+protobuf
+fastapi
+uvicorn
